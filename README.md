@@ -1,6 +1,6 @@
 ### Hi there
 
-| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats-lowie2727.vercel.app/api?username=lowie2727&show_icons=true&include_all_commits=true&theme=github_dark&hide_border=true" alt="Lowie's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats-lowie2727.vercel.app/api/top-langs/?username=lowie2727&layout=compact&theme=github_dark&hide_border=true" /></a> |
+| <a href="https://github.com/lowie2727/lowie2727"><img align="center" src="https://github-readme-stats-git-main-lowie2727.vercel.app/api?username=lowie2727&show_icons=true&include_all_commits=true&theme=github_dark&hide_border=true" alt="Lowie's github stats" /></a> | <a href="https://github.com/lowie2727/lowie2727"><img align="center" src="https://github-readme-stats-git-main-lowie2727.vercel.app/api/top-langs/?username=lowie2727&layout=compact&theme=github_dark&hide_border=true" /></a> |
 | ------------- | ------------- |
 
 <!--
